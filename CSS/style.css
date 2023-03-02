@@ -1,0 +1,31 @@
+#main {
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+}
+
+.container {
+    width: 739px;
+    margin: 0 auto;
+    padding: 0.5em;
+}
+
+.title {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 150%;
+    color: #002033;
+    text-align: left;
+}
+
+.sub-title {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 16px;
+    color: rgba(0, 32, 51, 0.6);
+    text-align: left;
+}
